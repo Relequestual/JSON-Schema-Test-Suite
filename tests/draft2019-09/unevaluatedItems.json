@@ -18,7 +18,7 @@
               "valid": true
           },
           {
-              "description": "unevaluatedItems isn't applied unnecessarily on items annotation boolean of true",
+              "description": "unevaluatedItems isn't applied on items annotation boolean of true",
               "data": ["yes", "no"],
               "valid": true
           },
